@@ -1,0 +1,1 @@
+export { default as apiClient, authAPI, postsAPI, usersAPI, healthAPI } from './api' 
